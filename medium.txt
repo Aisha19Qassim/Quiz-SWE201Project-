@@ -1,0 +1,15 @@
+5*12=? , 60 
+How many sides does a triangle have? , 3 
+What is H2O? , Water 
+What planet is known as the Red Planet? , Mars 
+What is the capital of Japan?, Tokyo 
+What is the smallest prime number?,2 
+What is the capital of Turkey ?, Ankara 
+What color are bananas?,Yellow
+What is the square of 10? ,100 
+9+5*3=? , 24 
+How many hours in one day ?, 24
+What month comes after April ?,May 
+What color is the grass?,Green 
+10-7=? ,3 
+ What is 12+15=?,27 
